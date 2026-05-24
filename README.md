@@ -25,7 +25,7 @@ A high-speed, production-ready, and highly scalable Screenshot API built with **
 ├── screenshot_service.py   # Playwright browser automation & page captures
 └── cache_manager.py       # In-memory caching logic with TTL expiration
 
-
+---
 ## 🛠️ Installation & Setup
 Local Setup (Using Virtual Environment)
 
